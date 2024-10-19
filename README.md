@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-I am INTeRP0L, a passionate bug hunter in the field of cybersecurity. I am always on the lookout for vulnerabilities and striving to enhance the security of digital systems.
+My Name is INTeGER , a passionate bug hunter in the field of cybersecurity. I am always on the lookout for vulnerabilities and striving to enhance the security of digital systems.
 
 ## Field of Work
 - 🐞 Bug Bounty Hunter
