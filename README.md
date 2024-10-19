@@ -10,7 +10,7 @@ I am INTeRP0L, a passionate bug hunter in the field of cybersecurity. I am alway
 
 ## Connect with Me
 - [Twitter](https://x.com/iinterp0l) : My Twitter account
-- [Discord](8r.b): My Discord profile
-- [Personal Website](link): Visit my personal website
+- [DiscordServer](https://discord.gg/9VewwTeTt6): My Discord Server
+- [Instagram](https://instagram.com/pi8zf): My Instagram account
 
 Feel free to reach out to me for collaboration or any inquiries related to cybersecurity and bug hunting. Thank you for visiting!
