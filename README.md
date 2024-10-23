@@ -8,12 +8,6 @@ My Name is INTeGER , a passionate bug hunter in the field of cybersecurity. I am
 - 🔒 Interested in strengthening cybersecurity
 - 💻 Specializing in bug discovery and resolution
 
-## My Cybersecurity Certifications
-
-### EJPT - 
-
-### eWAPT - 
-
 ## Connect with Me
 - [Twitter](https://x.com/iinterp0l) : My Twitter account
 - [DiscordServer](https://discord.gg/9VewwTeTt6): My Discord Server
