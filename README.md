@@ -10,7 +10,7 @@ My Name is INTeGER , a passionate bug hunter in the field of cybersecurity. I am
 
 ## Connect with Me
 - [Twitter](https://x.com/iinterp0l) : My Twitter account
-- [DiscordServer]([https://discord.gg/9VewwTeTt6](https://discord.gg/56VD2VFXsQ)): My Discord Server
+- [DiscordServer](https://discord.gg/56VD2VFXsQ): My Discord Server
 - [Instagram](https://instagram.com/986ie): My Instagram account
 
 Feel free to reach out to me for collaboration or any inquiries related to cybersecurity and bug hunting. Thank you for visiting!
